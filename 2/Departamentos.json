@@ -1,0 +1,16 @@
+[{
+  "_id": 1,
+  "codigo": 14,
+  "nombre": "Info",
+  "presupuesto": 60000
+},{
+  "_id": 2,
+  "codigo": 15,
+  "nombre": "Comercial",
+  "presupuesto": 80000
+},{
+  "_id": 3,
+  "codigo": 16,
+  "nombre": "Marketing",
+  "presupuesto": 100000
+}]

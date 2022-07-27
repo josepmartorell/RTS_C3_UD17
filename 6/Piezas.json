@@ -1,0 +1,13 @@
+[{
+  "_id": 1,
+  "codigo": 1,
+  "nombre": "pieza1"
+},{
+  "_id": 2,
+  "codigo": 2,
+  "nombre": "pieza2"
+},{
+  "_id": 3,
+  "codigo": 3,
+  "nombre": "pieza3"
+}]
