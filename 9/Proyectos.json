@@ -1,0 +1,13 @@
+[{
+  "_id": 1,
+  "Nombre": "Escalar la torre Eiffel",
+  "horas": 2
+},{
+  "_id": 2,
+  "Nombre": "Luchar contra momias",
+  "horas": 0.5
+},{
+  "_id": 3,
+  "Nombre": "Reportar a mamá",
+  "horas": 1
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "62e10cda58fd19e93a3107c3"
+  },
+  "nombre": "Intel"
+},{
+  "_id": {
+    "$oid": "62e10d2b58fd19e93a3107c4"
+  },
+  "nombre": "Asus"
+},{
+  "_id": {
+    "$oid": "62e10d4158fd19e93a3107c5"
+  },
+  "nombre": "AMD"
+},{
+  "_id": {
+    "$oid": "62e10d4758fd19e93a3107c6"
+  },
+  "nombre": "GeForce"
+}]
