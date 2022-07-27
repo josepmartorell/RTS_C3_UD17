@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "nombre": "Calcetines",
+  "precio": 12.5
+},{
+  "_id": 2,
+  "nombre": "Chaqueta",
+  "precio": 79
+},{
+  "_id": 3,
+  "nombre": "Corbata",
+  "precio": 25.7
+},{
+  "_id": 4,
+  "nombre": "Tejanos",
+  "precio": 67.99
+},{
+  "_id": 5,
+  "nombre": "Cafetera",
+  "precio": 89.99
+},{
+  "_id": 6,
+  "nombre": "Tostadora",
+  "precio": 33.99
+},{
+  "_id": 7,
+  "nombre": "batidora",
+  "precio": 61.99
+},{
+  "_id": 8,
+  "nombre": "freidora",
+  "precio": 124.99
+}]

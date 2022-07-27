@@ -1,0 +1,17 @@
+[{
+  "_id": 1,
+  "nombre": "The Inmortals",
+  "calificacion_edad": 14
+},{
+  "_id": 2,
+  "nombre": "Basic Instinct",
+  "calificacion_edad": 18
+},{
+  "_id": 3,
+  "nombre": "Mickey Mouse",
+  "calificacion_edad": 6
+},{
+  "_id": 4,
+  "nombre": "Blade Runner",
+  "calificacion_edad": 16
+}]

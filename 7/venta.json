@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "cajero": 1,
+  "maquina_registradora": 1,
+  "producto": 1
+},{
+  "_id": 2,
+  "cajero": 1,
+  "maquina_registradora": 1,
+  "producto": 2
+},{
+  "_id": 3,
+  "cajero": 2,
+  "maquina_registradora": 2,
+  "producto": 3
+},{
+  "_id": 4,
+  "cajero": 2,
+  "maquina_registradora": 1,
+  "producto": 7
+}]

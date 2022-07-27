@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "contenido": "utensilios_cocina",
+  "valor": 2167,
+  "almacen": 1
+},{
+  "_id": 2,
+  "contenido": "productos cosmética",
+  "valor": 7897,
+  "almacen": 1
+},{
+  "_id": 3,
+  "contenido": "productos del hogar",
+  "valor": 4697,
+  "almacen": 2
+},{
+  "_id": 4,
+  "contenido": "herramientas bricolage",
+  "valor": 9197,
+  "almacen": 2
+}]
